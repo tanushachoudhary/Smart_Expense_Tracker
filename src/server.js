@@ -1,3 +1,4 @@
+//server side code for starting the server on port 3000
 const app = require('./app');
 const PORT = process.env.PORT || 3000;
 

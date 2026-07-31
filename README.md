@@ -14,5 +14,5 @@ Ensure you have Node.js (v16+) installed.
 
 1. Clone the repository and navigate into the project directory:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/tanushachoudhary/Smart_Expense_Tracker.git
    cd smart-expense-tracker
