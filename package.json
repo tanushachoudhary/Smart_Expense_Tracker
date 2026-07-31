@@ -1,1 +1,18 @@
-
+{
+  "name": "smart-expense-tracker",
+  "version": "1.0.0",
+  "description": "Smart Expense Tracker REST API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
